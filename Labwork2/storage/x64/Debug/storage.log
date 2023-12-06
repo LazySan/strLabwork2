@@ -1,0 +1,10 @@
+﻿  storage_jni.c
+C:\str\labwork2\storage\storage_jni.c(43): warning C4716: 'Java_Storage_getXPos': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(79): warning C4716: 'Java_Storage_getZPos': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(115): warning C4716: 'Java_Storage_getYPos': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(124): warning C4716: 'Java_Storage_getSwitch1': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(133): warning C4716: 'Java_Storage_getSwitch2': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(142): warning C4716: 'Java_Storage_getSwitch1_12': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(169): warning C4716: 'Java_Storage_hasPallet': deve retornar um valor
+C:\str\labwork2\storage\storage_jni.c(178): warning C4716: 'Java_Storage_getP2': deve retornar um valor
+  storage.vcxproj -> C:\str\Labwork2\storage\x64\Debug\storage.dll
